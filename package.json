@@ -7,8 +7,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Just a test",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "repository": "https://github.com/m1zeo/npm.git"
 }
